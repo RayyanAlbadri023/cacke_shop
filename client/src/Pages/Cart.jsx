@@ -4,7 +4,7 @@ import { updateQuantity, removeFromCart } from "../Features/cartSlice";
 import { useNavigate } from "react-router-dom";
 import img1 from "../assets/img1.jpg";
 import logo from "../assets/logo.jpg";
-import "./Cart.css";
+import "./cart.css";
 
 const Cart = () => {
   const dispatch = useDispatch();

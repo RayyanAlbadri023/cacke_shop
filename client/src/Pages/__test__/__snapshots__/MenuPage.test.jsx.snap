@@ -1,0 +1,118 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MenuPage Component Tests > should match snapshot 1`] = `
+<div>
+  <div
+    class="menu-page"
+  >
+    <header
+      class="header"
+    >
+      <div
+        class="logo-text"
+      >
+        <img
+          alt="Logo"
+          class="logo"
+          src="/src/assets/logo.jpg"
+        />
+      </div>
+      <nav
+        class="nav-buttons"
+      >
+        <span>
+          Register
+        </span>
+        <span>
+          Login
+        </span>
+        <span>
+          Menu
+        </span>
+        <span>
+          Cart
+        </span>
+      </nav>
+    </header>
+    <section
+      class="first-row full-width-row"
+    >
+      <h1
+        class="left-text mrs-sheppards"
+        style="color: white;"
+      >
+        Menu
+      </h1>
+      <img
+        alt="Dessert"
+        class="right-img"
+        src="/src/assets/img1.jpg"
+      />
+    </section>
+    <div
+      class="spacer"
+    />
+    <div
+      class="menu-grid-container"
+    >
+      <div
+        class="menu-grid"
+      >
+        <div
+          class="dessert-card card"
+        >
+          <div
+            class="card-header"
+            style="padding: 0px;"
+          >
+            <img
+              alt="Chocolate Cake"
+              class="dessert-img"
+              src="cake.jpg"
+            />
+          </div>
+          <div
+            class="dessert-info card-body"
+          >
+            <div
+              class="dessert-name card-title"
+            >
+              Chocolate Cake
+            </div>
+            <p
+              class="dessert-price card-text"
+            >
+              3.5
+               OMR
+            </p>
+          </div>
+          <div
+            class="card-footer"
+          >
+            <button
+              class="add-btn btn btn-secondary"
+              type="button"
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer
+      class="footer"
+    >
+      <img
+        alt="Logo"
+        class="footer-logo"
+        src="/src/assets/logo.jpg"
+      />
+      <p>
+        Made with love and a touch of sweetness 
+        <br />
+        © 2025 All rights reserved.
+      </p>
+    </footer>
+  </div>
+</div>
+`;

@@ -1,0 +1,305 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Cart Component Tests > matches snapshot 1`] = `
+<div>
+  <div
+    class="cart-page"
+  >
+    <header
+      class="header"
+    >
+      <div
+        class="logo-text"
+      >
+        <img
+          alt="Logo"
+          class="logo"
+          src="/src/assets/logo.jpg"
+        />
+      </div>
+      <nav
+        class="nav-buttons"
+      >
+        <span>
+          Register
+        </span>
+        <span>
+          Login
+        </span>
+        <span>
+          Menu
+        </span>
+        <span>
+          Cart
+        </span>
+      </nav>
+    </header>
+    <section
+      class="first-row full-width-row"
+      style="justify-content: space-between;"
+    >
+      <h1
+        class="left-text mrs-sheppards"
+        style="color: white;"
+      >
+        My Cart
+      </h1>
+      <img
+        alt="Dessert"
+        class="right-img"
+        src="/src/assets/img1.jpg"
+      />
+    </section>
+    <div
+      class="spacer"
+    />
+    <div
+      class="cart-container"
+    >
+      <div
+        class="cart-item"
+      >
+        <img
+          alt="Chocolate Cake"
+          class="item-image"
+          src="cake.jpg"
+        />
+        <div
+          class="item-info"
+        >
+          <h3
+            class="item-name"
+          >
+            Chocolate Cake
+          </h3>
+          <p
+            class="item-price"
+          >
+            2.8
+             OMR
+          </p>
+          <div
+            class="qty-controls"
+          >
+            <button
+              class="qty-btn"
+            >
+              -
+            </button>
+            <span>
+              1
+            </span>
+            <button
+              class="qty-btn"
+            >
+              +
+            </button>
+          </div>
+        </div>
+        <button
+          class="delete-btn"
+        >
+          ×
+        </button>
+      </div>
+    </div>
+    <div
+      class="summary-box full-width-summary"
+    >
+      <div
+        class="row"
+      >
+        <span>
+          Subtotal
+        </span>
+        <span>
+          2.8
+           OMR
+        </span>
+      </div>
+      <div
+        class="row total-row"
+      >
+        <span>
+          Total
+        </span>
+        <span>
+          2.8
+           OMR
+        </span>
+      </div>
+      <button
+        class="checkout-btn"
+      >
+        Checkout
+      </button>
+    </div>
+    <footer
+      class="footer"
+    >
+      <img
+        alt="Logo"
+        class="footer-logo"
+        src="/src/assets/logo.jpg"
+      />
+      <p>
+        Made with love and a touch of sweetness 
+        <br />
+        © 2025 All rights reserved.
+      </p>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Cart Component Tests > should match snapshot 1`] = `
+<div>
+  <div
+    class="cart-page"
+  >
+    <header
+      class="header"
+    >
+      <div
+        class="logo-text"
+      >
+        <img
+          alt="Logo"
+          class="logo"
+          src="/src/assets/logo.jpg"
+        />
+      </div>
+      <nav
+        class="nav-buttons"
+      >
+        <span>
+          Register
+        </span>
+        <span>
+          Login
+        </span>
+        <span>
+          Menu
+        </span>
+        <span>
+          Cart
+        </span>
+      </nav>
+    </header>
+    <section
+      class="first-row full-width-row"
+      style="justify-content: space-between;"
+    >
+      <h1
+        class="left-text mrs-sheppards"
+        style="color: white;"
+      >
+        My Cart
+      </h1>
+      <img
+        alt="Dessert"
+        class="right-img"
+        src="/src/assets/img1.jpg"
+      />
+    </section>
+    <div
+      class="spacer"
+    />
+    <div
+      class="cart-container"
+    >
+      <div
+        class="cart-item"
+      >
+        <img
+          alt="Chocolate Cake"
+          class="item-image"
+          src="cake.jpg"
+        />
+        <div
+          class="item-info"
+        >
+          <h3
+            class="item-name"
+          >
+            Chocolate Cake
+          </h3>
+          <p
+            class="item-price"
+          >
+            3.5
+             OMR
+          </p>
+          <div
+            class="qty-controls"
+          >
+            <button
+              class="qty-btn"
+            >
+              -
+            </button>
+            <span>
+              2
+            </span>
+            <button
+              class="qty-btn"
+            >
+              +
+            </button>
+          </div>
+        </div>
+        <button
+          class="delete-btn"
+        >
+          ×
+        </button>
+      </div>
+    </div>
+    <div
+      class="summary-box full-width-summary"
+    >
+      <div
+        class="row"
+      >
+        <span>
+          Subtotal
+        </span>
+        <span>
+          7.0
+           OMR
+        </span>
+      </div>
+      <div
+        class="row total-row"
+      >
+        <span>
+          Total
+        </span>
+        <span>
+          9.0
+           OMR
+        </span>
+      </div>
+      <button
+        class="checkout-btn"
+      >
+        Checkout
+      </button>
+    </div>
+    <footer
+      class="footer"
+    >
+      <img
+        alt="Logo"
+        class="footer-logo"
+        src="/src/assets/logo.jpg"
+      />
+      <p>
+        Made with love and a touch of sweetness 
+        <br />
+        © 2025 All rights reserved.
+      </p>
+    </footer>
+  </div>
+</div>
+`;

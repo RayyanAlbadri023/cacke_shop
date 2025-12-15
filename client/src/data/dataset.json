@@ -1,0 +1,14 @@
+[
+  { "name": "cheesecake", "price": 3.2, "category": "Cake", "image": "https://tse4.mm.bing.net/th/id/OIP.jF2-pGAtL2RyZt1qHqNaVgHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "custom cake", "price": 2.8, "category": "Cake", "image": "https://tse3.mm.bing.net/th/id/OIP.bPoOqEFs7hmxRnz8k5JhDQHaLo?cb=ucfimg2&ucfimg=1&w=700&h=1099&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "almonds cake", "price": 3.8, "category": "Cake", "image": "https://tse4.mm.bing.net/th/id/OIP.LjNOt52D0HWs19Ls2TJMQgHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "blueberry cake", "price": 2.0, "category": "Cake", "image": "https://th.bing.com/th/id/R.a3416216a80eb08b6e0b984676d23a3c?rik=Rv0RMjz%2flUshIg&pid=ImgRaw&r=0" },
+  { "name": "strawberry cake", "price": 3.0, "category": "Cake", "image": "https://tse4.mm.bing.net/th/id/OIP.4iezouIm-Ia5wqUUcTWSHwHaJ4?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "chocolate cake", "price": 3.0, "category": "Cake", "image": "https://tse1.mm.bing.net/th/id/OIP.7bEK8zNR1hmj63EuvmzdYgHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "lemon cake", "price": 1.9, "category": "Cake", "image": "https://th.bing.com/th/id/OIP.sZF6lI56d3xayXkY4P9-vQHaHa?o=7&cb=ucfimg2&rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "coffee cake", "price": 2.9, "category": "Cake", "image": "https://tse4.mm.bing.net/th/id/OIP.0cGDB6jF05sW8j9EGKd2_AHaNK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "carrot cake", "price": 3.2, "category": "Cake", "image": "https://tse4.mm.bing.net/th/id/OIP.HwTeOYk7IGPrGQXrdt0NRQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "honey cake", "price": 3.5, "category": "Cake", "image": "https://tse2.mm.bing.net/th/id/OIP.dXOUr1ywr4nz5E6iVwPY-gHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "passion mango cake", "price": 3.3, "category": "Cake", "image": "https://tse2.mm.bing.net/th/id/OIP.UXWm6M4qMAHZFPtSizBjYwHaJ3?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { "name": "matcha cake", "price": 3.8, "category": "Cake", "image": "https://tse2.mm.bing.net/th/id/OIP.fqOf1gMXQTYDQf7rjzOPPAHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" }
+]

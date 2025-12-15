@@ -1,0 +1,59 @@
+
+[
+  {
+    "_id": "69366fd3d31deddfbc80ddcf",
+    "name": "Ree",
+    "email": "Ree@gmail.com",
+    "password": "ReeAdmin",
+    "role": "admin",
+    "__v": 0
+  },
+  {
+    "_id": "69366fd3d31deddfbc80ddcg",
+    "name": "Alreem",
+    "email": "alreem@gmail.com",
+    "password": "AlreemAb",
+    "role": "customer",
+    "phone": "99998888",
+    "__v": 0
+  },
+  {
+    "_id": "69366fd3d31deddfbc80ddch",
+    "name": "Rayyan",
+    "email": "rayyan@gmail.com",
+    "password": "RayyanAb",
+    "role": "customer",
+    "phone": "99887766",
+    "__v": 0
+  },
+  {
+    "_id": "69366fd3d31deddfbc80ddci",
+    "name": "Zahara",
+    "email": "zahra@gmail.com",
+    "password": "ZaharaAb",
+    "role": "customer",
+    "phone": "99776655",
+    "__v": 0
+  },
+  {
+    "_id": "69366fd3d31deddfbc80ddcj",
+    "name": "Ayman",
+    "email": "ayman@gmail.com",
+    "password": "AymanAbc",
+    "role": "customer",
+    "phone": "99665544",
+    "__v": 0
+  },
+  {
+    "_id": "69366fd3d31deddfbc80ddck",
+    "name": "Layla",
+    "email": "layla@gmail.com",
+    "password": "LaylaAbc",
+    "role": "customer",
+    "phone": "99554433",
+    "__v": 0
+  }
+  
+]
+
+

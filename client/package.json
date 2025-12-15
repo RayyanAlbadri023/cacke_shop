@@ -47,7 +47,7 @@
     "react-test-renderer": "^19.2.0",
     "redux-mock-store": "^1.5.5",
     "tailwindcss": "^4.1.17",
-    "vite": "^7.1.7",
+    "vite": "^7.2.7",
     "vitest": "^4.0.15"
   }
 }

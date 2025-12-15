@@ -4,8 +4,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Login from "./Pages/Login";
 import Register from "./Pages/Signup";
-import welcome from "./Pages/welcome";
-  import Admin from "./Pages/Admin";
+import Welcome from "./Pages/welcome";
+import Admin from "./Pages/Admin";
 import Menu from "./Pages/Menu";
 import Cart from "./Pages/Cart";
 import CheckoutPage from "./Pages/Checkout";
@@ -16,7 +16,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<welcome />} />
+        <Route path="/" element={<Welcome />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/home" element={<Home />} />

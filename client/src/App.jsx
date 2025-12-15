@@ -5,7 +5,7 @@ import Home from "./Pages/Home";
 import Login from "./Pages/Login";
 import Register from "./Pages/Signup";
 import welcome from "./Pages/welcome";
-import Admin from "./Pages/Admin";
+  import Admin from "./Pages/Admin";
 import Menu from "./Pages/Menu";
 import Cart from "./Pages/Cart";
 import CheckoutPage from "./Pages/Checkout";
